@@ -85,6 +85,14 @@ body {
     opacity: 1;
 }
 
+.btn-action:focus {
+  outline: 0;
+}
+
+.btn-action:active {
+  outline: 2px solid black;
+}
+
 .btn-action img {
   pointer-events: none;
 }
