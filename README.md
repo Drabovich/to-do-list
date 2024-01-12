@@ -1,5 +1,5 @@
 # ToDoList
-Приложение написано на чистом JavaScript. Суть его в том, чтобы записывать свои дела на день, неделю, месяц.
- - Все данные сохраняются в LocalStorage, поэтому не надо бояться, что они пропадут)
- - Выполнена адаптивная верстка под все разрешения экрана
- - Посетить приложение можно по [(ссылке)](https://drabovich.github.io/Project-4-ToDoList/)
+The application is written in pure JavaScript. Its essence is to write down your affairs for the day, week, month.
+ - All data is stored in LocalStorage
+ - Adaptive layout for all screen resolutions
+ - You can visit the application via [(link)](https://drabovich.github.io/Project-4-ToDoList/)
